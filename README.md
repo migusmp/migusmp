@@ -21,26 +21,26 @@
 ## Hey, I'm Miguel 👋
 
 🛠️ **I’m currently working on:**  
-- **Migux** — reverse proxy / HTTP server (Nginx-like) en **Rust**  
-- **Helpdesk** — backend en **Spring Boot** con JWT + tests + buenas prácticas
+- **Migux** — a Rust reverse proxy / HTTP server (Nginx-like)  
+- **Helpdesk** — a **Spring Boot** backend (JWT + tests + clean practices)
 
-🤝 **I’m looking to collaborate on:**  
-- Proyectos backend (Rust / Java)  
-- Sistemas en tiempo real (WebSockets, mensajería, APIs)
+🤝 **I’m open to collaborate on:**  
+- Pretty much **any kind of project** (backend, frontend, tooling, automation, scripts, etc.)  
+- Especially if it’s focused on **clean code**, good structure, and solid documentation
 
-🧠 **I’m looking for help with:**  
-- Revisiones de arquitectura, testing pro (unit + integration), CI/CD  
-- Deploy real (Docker, reverse proxy, TLS, observabilidad)
+💼 **I’m currently looking for a job:**  
+- Open to **Junior / Trainee / Internship** roles (Backend or Full-Stack)  
+- Fast learner, adaptable, and I enjoy building real-world projects
 
-🌱 **I’m currently learning:**  
-- Rust avanzado (Tokio, networking, performance)  
-- Testing en Spring Boot y DSA en C
+🌱 **I’m currently learning (and leveling up):**  
+- **Spring Boot** at a professional level (architecture, testing, security, patterns, clean code)  
+- Advanced Rust (Tokio, networking, performance)
 
 💬 **Ask me about:**  
-- **Axum/Tokio**, **Rust servers**, **Spring Boot**, **Next.js/TypeScript**, Linux + tooling
+- **Spring Boot**, **Rust servers**, **Axum/Tokio**, **Next.js/TypeScript**, Linux + tooling
 
 ⚡ **Fun fact:**  
-Me encanta convertir ideas “caóticas” en software simple y mantenible.
+I love turning “messy” ideas into simple, maintainable software.
 
 ---
 
