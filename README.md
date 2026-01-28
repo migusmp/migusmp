@@ -1,6 +1,48 @@
-# 💫 About Me:
-## About Me<br><br>🛠️ I’m currently working on **Migux**, a Rust reverse-proxy / HTTP server (Nginx-like) focused on performance, clean config, and scalable routing.  <br>🤝 I’m looking to collaborate on **backend projects** (Rust / Java) and **real-time systems** (WebSockets, messaging, APIs).  <br>🧠 I’m looking for help with **architecture reviews**, **testing strategies** (unit/integration), and **production-ready deployments** (Docker, reverse proxy, TLS).  <br>🌱 I’m currently learning **advanced Rust** (Tokio, networking), **Spring Boot testing**, and improving my **DSA** fundamentals in C.  <br>💬 Ask me about **Rust web servers**, **Axum/Tokio**, **Spring Boot**, **Next.js/TypeScript**, and **clean project structure**.  <br>⚡ Fun fact: I love building “boring but solid” systems—tools you can ship and maintain without headaches.<br>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0f172a,100:22c55e&height=120&section=header&text=Miguel%20%C3%81ngel&fontSize=42&fontColor=ffffff&animation=fadeIn" />
+</p>
 
+<h3 align="center">build. break. learn. repeat.</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/TU_LINKEDIN" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://TU_PORTFOLIO.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-22c55e?logo=vercel&logoColor=white" />
+  </a>
+  <a href="mailto:TU_EMAIL@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-111827?logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## Hey, I'm Miguel 👋
+
+🛠️ **I’m currently working on:**  
+- **Migux** — reverse proxy / HTTP server (Nginx-like) en **Rust**  
+- **Helpdesk** — backend en **Spring Boot** con JWT + tests + buenas prácticas
+
+🤝 **I’m looking to collaborate on:**  
+- Proyectos backend (Rust / Java)  
+- Sistemas en tiempo real (WebSockets, mensajería, APIs)
+
+🧠 **I’m looking for help with:**  
+- Revisiones de arquitectura, testing pro (unit + integration), CI/CD  
+- Deploy real (Docker, reverse proxy, TLS, observabilidad)
+
+🌱 **I’m currently learning:**  
+- Rust avanzado (Tokio, networking, performance)  
+- Testing en Spring Boot y DSA en C
+
+💬 **Ask me about:**  
+- **Axum/Tokio**, **Rust servers**, **Spring Boot**, **Next.js/TypeScript**, Linux + tooling
+
+⚡ **Fun fact:**  
+Me encanta convertir ideas “caóticas” en software simple y mantenible.
+
+---
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/migueeel.sp) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:miguelangeldev04@gmail.com) 
