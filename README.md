@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0f172a,100:22c55e&height=120&section=header&text=Miguel%20%C3%81ngel&fontSize=42&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0f172a,100:22c55e&height=120&section=header&text=Miguel%20%C3%81ngel&fontSize=42&fontColor=ffffff&animation=scaleIn" />
 </p>
 
 <h3 align="center">build. break. learn. repeat.</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/miguel-ángel-martínez-b0982df5667l" target="_blank">
+  <a href="https://www.linkedin.com/in/miguel-%C3%A1ngel-mart%C3%ADnez-b0982df5667l" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" />
   </a>
   <a href="https://migus.dev" target="_blank">
