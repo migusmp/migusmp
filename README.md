@@ -5,13 +5,13 @@
 <h3 align="center">build. break. learn. repeat.</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/TU_LINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/in/miguel-ángel-martínez-b0982df5667l" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://TU_PORTFOLIO.com" target="_blank">
+  <a href="https://migus.dev" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-22c55e?logo=vercel&logoColor=white" />
   </a>
-  <a href="mailto:TU_EMAIL@gmail.com" target="_blank">
+  <a href="mailto:miguelangeldev04@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-111827?logo=gmail&logoColor=white" />
   </a>
 </p>
