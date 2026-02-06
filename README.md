@@ -6,13 +6,13 @@
   />
 </p>
 
-<!-- TYPING LINE -->
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2600&pause=900&color=22C55E&center=true&vCenter=true&width=520&lines=Rust+%7C+Spring+Boot+%7C+Next.js;Reverse+Proxy+%26+HTTP+Servers;Clean+code+%2B+Docs+obsession"
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2600&pause=900&color=22C55E&center=true&vCenter=true&width=700&lines=Software+Developer;Backend+%7C+Full-Stack;Building+clean%2C+reliable+solutions"
     alt="typing"
   />
 </p>
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/miguel-%C3%A1ngel-mart%C3%ADnez-b0982df5667l" target="_blank">
