@@ -5,43 +5,6 @@
     alt="header"
   />
 </p>
-<p align="center">
-  <svg width="900" height="120" viewBox="0 0 900 120" xmlns="http://www.w3.org/2000/svg">
-    <defs>
-      <linearGradient id="bg" x1="0" x2="1">
-        <stop offset="0%" stop-color="#0f172a"/>
-        <stop offset="100%" stop-color="#22c55e"/>
-      </linearGradient>
-
-      <!-- Glow -->
-      <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
-        <feGaussianBlur stdDeviation="4" result="blur"/>
-        <feMerge>
-          <feMergeNode in="blur"/>
-          <feMergeNode in="SourceGraphic"/>
-        </feMerge>
-      </filter>
-    </defs>
-
-    <!-- pill background -->
-    <rect x="10" y="14" rx="36" ry="36" width="880" height="92" fill="url(#bg)"/>
-
-    <!-- glow text -->
-    <text x="450" y="62" text-anchor="middle"
-          font-size="52" font-family="system-ui, -apple-system, Segoe UI, Roboto"
-          fill="#ffffff" filter="url(#glow)">
-      Miguel Ángel
-    </text>
-
-    <!-- subtitle -->
-    <text x="450" y="92" text-anchor="middle"
-          font-size="18" font-family="system-ui, -apple-system, Segoe UI, Roboto"
-          fill="rgba(255,255,255,0.9)">
-      build. break. learn. repeat.
-    </text>
-  </svg>
-</p>
-
 
 <!-- TYPING LINE -->
 <p align="center">
