@@ -1,10 +1,11 @@
 <!-- HERO (capsule) con texto blanco + efecto tipo glow (outline) -->
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1220,60:16a34a,100:22c55e&height=180&section=header&text=Miguel%20%C3%81ngel&fontSize=46&fontColor=ffffff&stroke=22c55e&strokeWidth=3&animation=fadeIn&fontAlignY=35&desc=build.%20break.%20learn.%20repeat.&descAlignY=60&descSize=16"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1220,60:16a34a,100:22c55e&height=180&section=header&text=Miguel%20%C3%81ngel&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=build.%20break.%20learn.%20repeat.&descAlignY=60&descSize=16"
     alt="header"
   />
 </p>
+
 
 
 
