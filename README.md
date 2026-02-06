@@ -1,8 +1,18 @@
+<!-- HERO (capsule + typing) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0f172a,100:22c55e&height=120&section=header&text=Miguel%20%C3%81ngel&fontSize=42&fontColor=ffffff&animation=scaleIn" />
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1220,60:16a34a,100:22c55e&height=180&section=header&text=Miguel%20%C3%81ngel&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=build.%20break.%20learn.%20repeat.&descAlignY=60&descSize=16"
+    alt="header"
+  />
 </p>
 
-<h3 align="center">build. break. learn. repeat.</h3>
+<!-- TYPING LINE -->
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2600&pause=900&color=22C55E&center=true&vCenter=true&width=520&lines=Rust+%7C+Spring+Boot+%7C+Next.js;Reverse+Proxy+%26+HTTP+Servers;Clean+code+%2B+Docs+obsession"
+    alt="typing"
+  />
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/miguel-%C3%A1ngel-mart%C3%ADnez-b0982df5667l" target="_blank">
