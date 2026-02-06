@@ -1,113 +1,11 @@
-<!-- HERO (capsule + typing) -->
-<!-- HERO (SVG con glow REAL) -->
+<!-- HERO (capsule) con texto blanco + efecto tipo glow (outline) -->
 <p align="center">
-  <svg
-    width="100%"
-    viewBox="0 0 1200 260"
-    xmlns="http://www.w3.org/2000/svg"
-    role="img"
-    aria-label="Miguel Ángel — build. break. learn. repeat."
-  >
-    <defs>
-      <!-- Fondo gradient -->
-      <linearGradient id="bg" x1="0" y1="0" x2="1" y2="0">
-        <stop offset="0%" stop-color="#0b1220" />
-        <stop offset="60%" stop-color="#16a34a" />
-        <stop offset="100%" stop-color="#22c55e" />
-      </linearGradient>
-
-      <!-- Glow real (blur) -->
-      <filter id="glow" x="-60%" y="-60%" width="220%" height="220%">
-        <feGaussianBlur stdDeviation="7" result="blur" />
-        <feColorMatrix
-          in="blur"
-          type="matrix"
-          values="
-            0 0 0 0 0.13
-            0 0 0 0 0.77
-            0 0 0 0 0.37
-            0 0 0 1 0"
-          result="greenGlow"
-        />
-        <feMerge>
-          <feMergeNode in="greenGlow" />
-          <feMergeNode in="SourceGraphic" />
-        </feMerge>
-      </filter>
-
-      <!-- Sombra suave para dar profundidad -->
-      <filter id="softShadow" x="-50%" y="-50%" width="200%" height="200%">
-        <feDropShadow dx="0" dy="8" stdDeviation="10" flood-color="#000000" flood-opacity="0.35" />
-      </filter>
-
-      <!-- “Glass” overlay -->
-      <linearGradient id="glass" x1="0" y1="0" x2="1" y2="1">
-        <stop offset="0%" stop-color="#ffffff" stop-opacity="0.16" />
-        <stop offset="45%" stop-color="#ffffff" stop-opacity="0.06" />
-        <stop offset="100%" stop-color="#ffffff" stop-opacity="0" />
-      </linearGradient>
-    </defs>
-
-    <!-- Background pill -->
-    <g filter="url(#softShadow)">
-      <rect x="22" y="22" width="1156" height="216" rx="90" fill="url(#bg)" />
-      <!-- Glass highlight -->
-      <path
-        d="M70 55 C 260 15, 520 20, 760 55 C 900 75, 1010 78, 1130 60 L 1130 95 C 1020 112, 910 110, 760 92 C 520 62, 260 60, 70 98 Z"
-        fill="url(#glass)"
-      />
-      <!-- Wave accent -->
-      <path
-        d="M22 180 C 160 155, 280 210, 420 188 C 560 166, 690 120, 820 145 C 950 170, 1040 225, 1178 196 L 1178 238 L 22 238 Z"
-        fill="#0b1220"
-        opacity="0.22"
-      />
-    </g>
-
-    <!-- TEXT (glow + crisp) -->
-    <!-- Glow layer (verde) -->
-    <text
-      x="600"
-      y="125"
-      text-anchor="middle"
-      font-size="68"
-      font-weight="800"
-      font-family="system-ui,-apple-system,Segoe UI,Roboto,Ubuntu,Cantarell,Noto Sans,sans-serif"
-      fill="#22c55e"
-      opacity="0.95"
-      filter="url(#glow)"
-    >
-      Miguel Ángel
-    </text>
-
-    <!-- Crisp white layer -->
-    <text
-      x="600"
-      y="125"
-      text-anchor="middle"
-      font-size="68"
-      font-weight="800"
-      font-family="system-ui,-apple-system,Segoe UI,Roboto,Ubuntu,Cantarell,Noto Sans,sans-serif"
-      fill="#ffffff"
-    >
-      Miguel Ángel
-    </text>
-
-    <!-- Subtitle (con glow suave) -->
-    <text
-      x="600"
-      y="175"
-      text-anchor="middle"
-      font-size="22"
-      font-weight="600"
-      font-family="system-ui,-apple-system,Segoe UI,Roboto,Ubuntu,Cantarell,Noto Sans,sans-serif"
-      fill="rgba(255,255,255,0.92)"
-      filter="url(#glow)"
-    >
-      build. break. learn. repeat.
-    </text>
-  </svg>
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1220,60:16a34a,100:22c55e&height=180&section=header&text=Miguel%20%C3%81ngel&fontSize=46&fontColor=ffffff&stroke=22c55e&strokeWidth=3&animation=fadeIn&fontAlignY=35&desc=build.%20break.%20learn.%20repeat.&descAlignY=60&descSize=16"
+    alt="header"
+  />
 </p>
+
 
 
 <p align="center">
