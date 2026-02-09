@@ -60,7 +60,7 @@ I enjoy working close to the metal (networking/performance) but also shipping co
 
 ### 🧰 Toolbox
 **Languages:** Rust · Java · TypeScript · PHP · Bash<br>
-**Backend:** Axum/Tokio · Spring Boot · Node.js  
+**Backend:** Axum/Tokio · Spring Boot · Node.js · Laravel
 **Frontend:** Next.js · React · Tailwind  
 **Data:** PostgreSQL · SQLite  
 **DevOps:** Docker · Linux · (learning Kubernetes)  
