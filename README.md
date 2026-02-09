@@ -31,7 +31,7 @@
 
 ---
 
-## Hey, I'm Miguel 👋
+## Hey, I'm Miguel Ángel 👋
 
 Backend & systems-minded developer who loves building **real-world products** with **clean architecture**, **solid testing**, and **great documentation**.  
 I enjoy working close to the metal (networking/performance) but also shipping complete apps end-to-end.
@@ -119,6 +119,13 @@ I genuinely enjoy refactoring chaos into clean, maintainable software.
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 📈 Activity
+![](https://github-readme-activity-graph.vercel.app/graph?username=migusmp&theme=github-compact)
+
+### ⏱️ Weekly coding
+![](https://github-readme-stats.vercel.app/api/wakatime?username=migusmp&theme=dark&hide_border=true)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=migusmp&icon=0&color=0)](https://visitcount.itsvg.in)
