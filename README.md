@@ -123,10 +123,6 @@ I genuinely enjoy refactoring chaos into clean, maintainable software.
 ### 📈 Activity
 ![](https://github-readme-activity-graph.vercel.app/graph?username=migusmp&theme=github-compact)
 
-### ⏱️ Weekly coding
-![](https://github-readme-stats.vercel.app/api/wakatime?username=migusmp&theme=dark&hide_border=true)
-
-
 ---
 [![](https://visitcount.itsvg.in/api?id=migusmp&icon=0&color=0)](https://visitcount.itsvg.in)
 
