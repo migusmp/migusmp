@@ -33,27 +33,77 @@
 
 ## Hey, I'm Miguel 👋
 
-🛠️ **I’m currently working on:**  
-- **Migux** — a Rust reverse proxy / HTTP server (Nginx-like)  
-- **Helpdesk** — a **Spring Boot** backend (JWT + tests + clean practices)
+Backend & systems-minded developer who loves building **real-world products** with **clean architecture**, **solid testing**, and **great documentation**.  
+I enjoy working close to the metal (networking/performance) but also shipping complete apps end-to-end.
 
-🤝 **I’m open to collaborate on:**  
-- Pretty much **any kind of project** (backend, frontend, tooling, automation, scripts, etc.)  
-- Especially if it’s focused on **clean code**, good structure, and solid documentation
+---
 
-💼 **I’m currently looking for a job:**  
-- Open to **Junior / Trainee / Internship** roles (Backend or Full-Stack)  
-- Fast learner, adaptable, and I enjoy building real-world projects
+### 🧠 What I do
+- Build **backend systems** (APIs, auth, data, performance)
+- Work on **networking / HTTP servers / reverse proxies**
+- Care deeply about **clean code**, **testing**, and **maintainability**
+- Turn “messy ideas” into **simple, structured software**
 
-🌱 **I’m currently learning (and leveling up):**  
-- **Spring Boot** at a professional level (architecture, testing, security, patterns, clean code)  
-- Advanced Rust (Tokio, networking, performance)
+---
 
-💬 **Ask me about:**  
-- **Spring Boot**, **Rust servers**, **Axum/Tokio**, **Next.js/TypeScript**, Linux + tooling
+### 🚀 Featured projects
+- **Migux** — Rust reverse proxy / HTTP server (Nginx-inspired)  
+  _routing, static serving, caching ideas, performance-minded design_
+- **Helpdesk** — Spring Boot backend  
+  _JWT auth, tests, clean practices, real-world backend structure_
+- **Ayudex([ayudex.es](https://ayudex.es/))** — microservices learning project (Rust + messaging + containers)  
+  _focused on architecture, scalability and real deployment concepts_
+- **CombatStrike** — product-oriented platform (full-stack mindset)  
+  _building like a real product: features, structure, delivery_
 
-⚡ **Fun fact:**  
-I love turning “messy” ideas into simple, maintainable software.
+---
+
+### 🧰 Toolbox
+**Languages:** Rust · Java · TypeScript · PHP · Bash
+**Backend:** Axum/Tokio · Spring Boot · Node.js  
+**Frontend:** Next.js · React · Tailwind  
+**Data:** PostgreSQL · SQLite  
+**DevOps:** Docker · Linux · (learning Kubernetes)  
+**Workflow:** Git · Neovim · Tmux · automated scripts/tooling
+
+---
+
+### 🌱 Currently leveling up
+- **Spring Boot** → architecture, testing strategy, security, patterns
+- **Rust** → Tokio, networking, performance, server internals
+- **System design** → scalable services, messaging, deployment
+
+---
+
+### 🤝 Collaboration
+I’m open to collaborate on **backend/full-stack/tooling** projects — especially if they value:
+- clean structure & readable code
+- tests that matter
+- documentation people actually want to read
+
+---
+
+### 💼 Opportunities
+Open to **Junior / Trainee / Internship** roles (Backend / Full-Stack).  
+I learn fast, communicate clearly, and I love building in public.
+
+---
+
+### 🐧 Linux
+- Daily driver: **Arch Linux**
+- Workflow: **Neovim**, **tmux**, terminal tooling & automation
+---
+
+### 📫 Let’s connect
+- Portfolio: **https://migus.dev**
+- LinkedIn: **https://linkedin.com/in/miguel-ángel-martínez-b0982df5667l**
+- Email: **[miguelangeldev04@gmail.com](mailto:miguelangeldev04@gmail.com)**
+
+<details>
+<summary><b>⚡ Fun fact</b></summary>
+
+I genuinely enjoy refactoring chaos into clean, maintainable software.
+</details>
 
 ---
 
@@ -66,10 +116,6 @@ I love turning “messy” ideas into simple, maintainable software.
 ![](https://github-readme-stats.vercel.app/api?username=migusmp&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=migusmp&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=migusmp&theme=dark&hide_border=false&layout=compact&langs_count=8&hide=css,html,scss,sass)
-
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=migusmp&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
